@@ -19,17 +19,17 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: MyHomePage(),
+      home: Wrapper(),
     );
   }
 }
 
-class MyHomePage extends StatefulWidget {
+class Wrapper extends StatefulWidget {
   @override
-  _MyHomePageState createState() => _MyHomePageState();
+  _WrapperState createState() => _WrapperState();
 }
 
-class _MyHomePageState extends State<MyHomePage> {
+class _WrapperState extends State<Wrapper> {
   PersistentTabController _controller =
       PersistentTabController(initialIndex: 0);
 
