@@ -24,6 +24,8 @@ dependencies:
   flutter:
     sdk: flutter
   cupertino_icons: ^1.0.2
+  flutter_icons: ^1.1.0
+  glassmorphism_ui: ^0.1.0
   persistent_bottom_nav_bar: ^4.0.2
 
 dev_dependencies:
