@@ -1,9 +1,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:home_rental/Screens/AccountPage.dart';
-import 'package:home_rental/Screens/BookedPage.dart';
+import 'package:home_rental/Screens/Templates/AccountPage.dart';
+import 'package:home_rental/Screens/Templates/BookedPage.dart';
 import 'package:home_rental/Screens/HomePage.dart';
-import 'package:home_rental/Screens/NotificationsPage.dart';
+import 'package:home_rental/Screens/Templates/NotificationsPage.dart';
 import 'package:persistent_bottom_nav_bar/persistent-tab-view.dart';
 
 void main() {
@@ -19,6 +19,8 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
+      darkTheme: ThemeData.dark(),
+      // themeMode: ThemeMode.dark,
       home: Wrapper(),
     );
   }
@@ -66,7 +68,7 @@ class _WrapperState extends State<Wrapper> {
         duration: Duration(milliseconds: 300),
       ),
       navBarStyle:
-          NavBarStyle.style9, // Choose the nav bar style with this property.
+          NavBarStyle.style12, // Choose the nav bar style with this property.
     );
   }
 
@@ -88,8 +90,8 @@ class _WrapperState extends State<Wrapper> {
         inactiveColorPrimary: CupertinoColors.systemGrey,
       ),
       PersistentBottomNavBarItem(
-        icon: Icon(CupertinoIcons.tickets_fill),
-        title: ("Ticket"),
+        icon: Icon(CupertinoIcons.bookmark_fill),
+        title: ("Booked"),
         activeColorPrimary: CupertinoColors.activeBlue,
         inactiveColorPrimary: CupertinoColors.systemGrey,
       ),
