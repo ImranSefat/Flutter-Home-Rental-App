@@ -11,3 +11,4 @@
 ![Property Details 2](https://i.ibb.co/HDVRV7Z/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-04-21-at-15-34-53.png)
 
 
+<img src="https://i.ibb.co/HDVRV7Z/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-04-21-at-15-34-53.png" width="200" height="200" />
