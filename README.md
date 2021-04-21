@@ -5,7 +5,7 @@
 
 <p align="center"> 
 
-<img src="https://i.ibb.co/HDVRV7Z/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-04-21-at-15-34-53.png" width="300" />
+<img src="https://i.ibb.co/cbjkRxG/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-04-21-at-15-34-25.png" width="300" />
 
 <img src="https://i.ibb.co/B6k8k4T/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-04-21-at-15-34-37.png" width="300" />
 
