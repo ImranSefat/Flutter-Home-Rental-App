@@ -66,7 +66,7 @@ class _MyHomePageState extends State<MyHomePage> {
         duration: Duration(milliseconds: 300),
       ),
       navBarStyle:
-          NavBarStyle.style9, // Choose the nav bar style with this property.
+          NavBarStyle.style12, // Choose the nav bar style with this property.
     );
   }
 
