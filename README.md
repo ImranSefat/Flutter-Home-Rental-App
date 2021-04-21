@@ -1,7 +1,8 @@
 # This is the starter project for the Home Rental Flutter app that I posted on youtube. 
 ## Youtube Link 
+
+
 ## The completed project is available on the main branch. 
-[## I'm an inline-style link](https://www.google.com)
 
 ## Dribbble design link : https://dribbble.com/shots/15501521-Home-Rental-App
 
