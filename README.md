@@ -1,17 +1,13 @@
 # This is the starter project for the Home Rental Flutter app that I posted on youtube. 
 ## Youtube Link 
 
+![Home Screen 1](https://i.ibb.co/s5Zbct0/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-04-21-at-15-34-25.png)
 
-Inline-style: 
-![alt text](https://i.ibb.co/s5Zbct0/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-04-21-at-15-34-25.png "Home Screen 1")
-
-
-Inline-style: 
-![alt text](https://i.ibb.co/B6k8k4T/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-04-21-at-15-34-37.png "Home Screen 2")
+![Home Screen 2](https://i.ibb.co/B6k8k4T/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-04-21-at-15-34-37.png)
 
 
-Inline-style: 
-![alt text](https://i.ibb.co/h2NzxwN/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-04-21-at-15-34-49.png "Property Details 1 ")
+![Property Details 1](https://i.ibb.co/h2NzxwN/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-04-21-at-15-34-49.png)
 
-Inline-style: 
-![alt text](https://i.ibb.co/HDVRV7Z/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-04-21-at-15-34-53.png "Property Details 2 ")
+![Property Details 2](https://i.ibb.co/HDVRV7Z/Simulator-Screen-Shot-i-Phone-12-Pro-Max-2021-04-21-at-15-34-53.png)
+
+
